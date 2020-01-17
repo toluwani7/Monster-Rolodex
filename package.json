@@ -5,9 +5,11 @@
   "homepage": "https//toluwani7.github.io/Monster-Rolodex",
   "dependencies": {
     "gh-pages": "^2.1.1",
+    "node": "^13.3.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "^3.1.1"
+    "react-scripts": "^3.1.1",
+    "sass": "^1.23.7"
   },
   "scripts": {
     "start": "react-scripts start",
